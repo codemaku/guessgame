@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/guessgame/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/guessgame/static/js/main.9b2876bb.chunk.js",
-    "main.js.map": "/guessgame/static/js/main.9b2876bb.chunk.js.map",
+    "main.js": "/guessgame/static/js/main.152a4f91.chunk.js",
+    "main.js.map": "/guessgame/static/js/main.152a4f91.chunk.js.map",
     "runtime-main.js": "/guessgame/static/js/runtime-main.a3dbbc3b.js",
     "runtime-main.js.map": "/guessgame/static/js/runtime-main.a3dbbc3b.js.map",
-    "static/js/2.183f0d94.chunk.js": "/guessgame/static/js/2.183f0d94.chunk.js",
-    "static/js/2.183f0d94.chunk.js.map": "/guessgame/static/js/2.183f0d94.chunk.js.map",
+    "static/js/2.17567b41.chunk.js": "/guessgame/static/js/2.17567b41.chunk.js",
+    "static/js/2.17567b41.chunk.js.map": "/guessgame/static/js/2.17567b41.chunk.js.map",
     "static/js/3.edc3fc82.chunk.js": "/guessgame/static/js/3.edc3fc82.chunk.js",
     "static/js/3.edc3fc82.chunk.js.map": "/guessgame/static/js/3.edc3fc82.chunk.js.map",
     "index.html": "/guessgame/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/guessgame/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.183f0d94.chunk.js.LICENSE.txt": "/guessgame/static/js/2.183f0d94.chunk.js.LICENSE.txt"
+    "static/js/2.17567b41.chunk.js.LICENSE.txt": "/guessgame/static/js/2.17567b41.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a3dbbc3b.js",
-    "static/js/2.183f0d94.chunk.js",
+    "static/js/2.17567b41.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.9b2876bb.chunk.js"
+    "static/js/main.152a4f91.chunk.js"
   ]
 }
